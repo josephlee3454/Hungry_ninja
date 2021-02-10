@@ -129,7 +129,7 @@ class Ninja
     {
         static void Main(string[] args)
         {
-             Ninja joe = new Ninja("Nina");
+             Ninja joe = new Ninja("joe");
              Buffet GrandNinjaBuffet = new Buffet();
              joe.Eat(GrandNinjaBuffet.Serve());
              joe.Eat(GrandNinjaBuffet.Serve());
