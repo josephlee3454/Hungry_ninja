@@ -1,0 +1,16 @@
+/home/owner/dojo/c#colections/Hungry-Ninja/bin/Debug/net5.0/Hungry-Ninja
+/home/owner/dojo/c#colections/Hungry-Ninja/bin/Debug/net5.0/Hungry-Ninja.deps.json
+/home/owner/dojo/c#colections/Hungry-Ninja/bin/Debug/net5.0/Hungry-Ninja.runtimeconfig.json
+/home/owner/dojo/c#colections/Hungry-Ninja/bin/Debug/net5.0/Hungry-Ninja.runtimeconfig.dev.json
+/home/owner/dojo/c#colections/Hungry-Ninja/bin/Debug/net5.0/Hungry-Ninja.dll
+/home/owner/dojo/c#colections/Hungry-Ninja/bin/Debug/net5.0/ref/Hungry-Ninja.dll
+/home/owner/dojo/c#colections/Hungry-Ninja/bin/Debug/net5.0/Hungry-Ninja.pdb
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/Hungry-Ninja.csprojAssemblyReference.cache
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/Hungry-Ninja.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/Hungry-Ninja.AssemblyInfoInputs.cache
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/Hungry-Ninja.AssemblyInfo.cs
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/Hungry-Ninja.csproj.CoreCompileInputs.cache
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/Hungry-Ninja.dll
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/ref/Hungry-Ninja.dll
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/Hungry-Ninja.pdb
+/home/owner/dojo/c#colections/Hungry-Ninja/obj/Debug/net5.0/Hungry-Ninja.genruntimeconfig.cache
