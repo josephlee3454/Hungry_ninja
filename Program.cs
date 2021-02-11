@@ -129,15 +129,14 @@ class Ninja
     {
         static void Main(string[] args)
         {
-             Ninja joe = new Ninja("joe");
-             Buffet GrandNinjaBuffet = new Buffet();
-             joe.Eat(GrandNinjaBuffet.Serve());
-             joe.Eat(GrandNinjaBuffet.Serve());
-             joe.Eat(GrandNinjaBuffet.Serve());
-             joe.Eat(GrandNinjaBuffet.Serve());
-             joe.Eat(GrandNinjaBuffet.Serve());
-             joe.Eat(GrandNinjaBuffet.Serve());
-             joe.Eat(GrandNinjaBuffet.Serve());
+            var joeNinja = new Ninja("");
+            var joeBuffet = new Buffet();
+            while(joeNinja.IsFull != true)
+            {
+
+             var food = joeBuffet.Serve();
+             joeNinja.Eat(food);
+             
         }
     }
-}
+}}
